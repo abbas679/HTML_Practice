@@ -18,10 +18,7 @@ This project includes multiple HTML files that demonstrate:
 
 ## 🖼️ Live Demo
 
-👉 [**View on GitHub Pages**](https://your-username.github.io/repo-name/)  
-*(Replace the link with your actual GitHub Pages URL once you publish it.)*
+👉 [**View on GitHub Pages**](https://github.com/abbas679/HTML_Practice)  
+
 
 ---
-
-## 📂 Project Structure
-
